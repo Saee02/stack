@@ -15,3 +15,5 @@ Algorithm:
 
 5 − Returns success.
 
+
+![image](https://user-images.githubusercontent.com/124857336/234474837-3f6b2c8c-2987-4777-9b0f-9ae42c5afab1.png)
